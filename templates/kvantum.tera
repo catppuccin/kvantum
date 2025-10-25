@@ -93,6 +93,7 @@ dark.color=#{{ mantle.hex }}
 mid.color=#{{ mantle.hex }}
 highlight.color=#{{ accent | mod(opacity=0.3) | get(key="hex") }}
 inactive.highlight.color=#{{ surface1.hex }}
+tooltip.base.color=#{{ mantle.hex }}
 text.color=#{{ text.hex }}
 window.text.color=#{{ text.hex }}
 button.text.color=#{{ text.hex }}
