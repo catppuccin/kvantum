@@ -82,6 +82,7 @@ dark.color=#292C3C
 mid.color=#292C3C
 highlight.color=#EA999C4D
 inactive.highlight.color=#51576D
+tooltip.base.color=#292C3C
 text.color=#C6D0F5
 window.text.color=#C6D0F5
 button.text.color=#C6D0F5
