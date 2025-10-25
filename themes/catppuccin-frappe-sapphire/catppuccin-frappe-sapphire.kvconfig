@@ -386,6 +386,10 @@ frame.right=3
 inherits=PanelButtonCommand
 interior.element=menuitem
 indicator.size=8
+frame=true
+frame.element=menuitem
+frame.right=10
+frame.left=10
 text.focus.color=#C6D0F5
 text.press.color=#C6D0F5
 
